@@ -4,8 +4,7 @@
 
 **ORAN-Bench-13K** is the first comprehensive benchmark designed to evaluate the performance of Large Language Models (LLMs) within the context of Open Radio Access Networks (O-RAN). This benchmark consists of 13,952 meticulously curated multiple-choice questions generated from 116 O-RAN specification documents. It aims to assess LLMs' proficiency in understanding and generating human-like text specific to O-RAN tasks.
 
-The manuscript detailing ORAN-Bench-13K has been submitted to the IEEE Consumer Communications & Networking Conference (CCNC) 2025. The preprint is available on arXiv at the following link: [https://arxiv.org/abs/2407.06245](https://arxiv.org/abs/2407.06245).
-
+The manuscript detailing ORAN-Bench-13K has been submitted to the IEEE Consumer Communications & Networking Conference (CCNC) 2025. The preprint is available on arXiv at the following link: [https://arxiv.org/abs/2407.06245](https://arxiv.org/abs/2407.06245). We have conducted comprehensive tests with multiple open-source and closed-source LLMs. Additionally, we propose a novel RAG-based pipeline named ORANSight. More information about these tests and ORANSight is available in our preprint
 
 ## Motivation
 
