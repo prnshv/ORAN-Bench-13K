@@ -1,6 +1,6 @@
 ## Overview
 
-The `MCQA` folder contains a set of JSON files designed to evaluate the performance of Large Language Models (LLMs) on Open Radio Access Networks (O-RAN) related tasks. The files are divided into three difficulty levels: Easy, Medium, and Difficult.
+The `Benchmark` folder contains a set of JSON files designed to evaluate the performance of Large Language Models (LLMs) on Open Radio Access Networks (O-RAN) related tasks. The files are divided into three difficulty levels: Easy, Medium, and Difficult.
 
 ## Files Description
 
@@ -36,7 +36,7 @@ Here's a Python example of how to load and use these JSON files:
 import json
 
 # Load Easy questions
-with open('MCQA/Fin_E.json', 'r') as file:
+with open('Benchmark/Fin_E.json', 'r') as file:
     easy_questions = json.load(file)
 
 # Display first question
