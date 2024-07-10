@@ -36,7 +36,7 @@ If you use ORAN-Bench-13K in your research, please cite our work as follows:
 
 ## Contribution
 
-We welcome contributions to expand and improve the benchmark. If you have suggestions or want to add new questions, please submit a pull request or contact us.
+We welcome contributions to expand and improve the benchmark. If you have suggestions or want to add new questions, please reach out to us.
 
 ## ORANSight
 
