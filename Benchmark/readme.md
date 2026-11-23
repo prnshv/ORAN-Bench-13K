@@ -6,7 +6,7 @@ The `Benchmark` folder contains a set of JSON files designed to evaluate the per
 
 - **fin_E.json**: Contains multiple-choice questions categorized as "Easy". These questions focus on basic concepts and known facts about O-RAN.
 - **fin_M.json**: Contains multiple-choice questions categorized as "Intermediate". These questions require comprehension and application of concepts or involve moderate calculations or reasoning.
-- **fin_D.json**: Contains multiple-choice questions categorized as "Difficult". These questions demand a deep understanding of O-RAN standards or the ability to synthesize multiple pieces of information.
+- **fin_H.json**: Contains multiple-choice questions categorized as "Difficult". These questions demand a deep understanding of O-RAN standards or the ability to synthesize multiple pieces of information.
 
 ## File Structure
 
