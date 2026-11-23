@@ -12,7 +12,7 @@ The rapid advancement of O-RAN technology necessitates the development of sophis
 
 ## Repository Structure
 
-- **MCQA**: This folder contains three JSON files (Fin_E.json, Fin_M.json, Fin_D.json) corresponding to different difficulty levels of multiple-choice questions.
+- **MCQA**: This folder contains three JSON files (Fin_E.json, Fin_M.json, Fin_H.json) corresponding to different difficulty levels of multiple-choice questions.
 
 ## Usage
 
